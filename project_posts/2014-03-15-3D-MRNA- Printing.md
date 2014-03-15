@@ -1,14 +1,13 @@
 #####Mar 15 14 First test 3D Printing part of the data tcga_i6_2
 
-![100x100px test data](../images/printing1.png "100x100px test data")
+!["base of 3d model"](../images/baseof3dmodel.png "base of 3d model")
 
-![3D view of model in cura](../images/cura1.png "3D view of model in cura")
+!["first test in cura"](../images/cura0.png "first test in cura")
 
-**3d printing** printer: ultimaker original.  picture shows a print with a voxelsize of 1x1x1 mm. (means 10000px image would be a 3D model of  10x10m in size) 1x1x1mm looks like the size that looks more or less good.
 
 **code** 
-this is how the 3D model is created out of the pixel data:
-processing library in use: http://n-e-r-v-o-u-s.com/tools/obj/
+this is how the 3D model is created:
+(processing library in use: http://n-e-r-v-o-u-s.com/tools/obj/)
 
 
 ```
@@ -31,6 +30,16 @@ beginRecord("nervoussystem.obj.OBJExport", dateString+"_"+scaleFactor+"_"+"mrna"
   
 endRecord(); 
 ```
+
+**printing pipeline** the .obj file is opened in cura: https://www.ultimaker.com/pages/our-software and then printed. I added a so called "raft" to the model (grid structure at the bottom) helps make it more robust when handeled.
+
+
+![100x100px test data](../images/printing1.png "100x100px test data")
+
+![3D view of model in cura](../images/cura1.png "3D view of model in cura")
+
+**3d printing** printer: ultimaker original.  picture shows a print with a voxelsize of 1x1x1 mm. (means 10000px image would be a 3D model of  10x10m in size) 1x1x1mm looks like the size that looks more or less good.
+
 it becomes clear that the 3D model -if its made out of cubic voxels - is much larger in height than it is in width and height. 
 
 this leads to new thoughts about the presentation:
@@ -39,8 +48,9 @@ this leads to new thoughts about the presentation:
 a piece of size 3x3m
 
 !["presentation of 3d model cut through" ](../images/sketch2_3D.png "presentation of 3d model")
-cut through, "pars pro toto"
+cut through, show a part only, instead of the whole.
 
 !["presentation of 3d model"](../images/sketch3_3D.png "presentation of 3d model")
- 
+;)
+
 
