@@ -51,6 +51,6 @@ a piece of size 3x3m
 cut through, show a part only, instead of the whole.
 
 !["presentation of 3d model"](../images/sketch4_3D.png "presentation of 3d model")
-;)
+:)
 
 
