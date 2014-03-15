@@ -44,13 +44,13 @@ it becomes clear that the 3D model -if its made out of cubic voxels - is much la
 
 this leads to new thoughts about the presentation:
 
-!["presentation of 3d model" ](../images/sketch1_3D.png "presentation of 3d model")
+!["presentation of 3d model" ](../images/sketch0_3D.png "presentation of 3d model")
 a piece of size 3x3m
 
 !["presentation of 3d model cut through" ](../images/sketch2_3D.png "presentation of 3d model")
 cut through, show a part only, instead of the whole.
 
-!["presentation of 3d model"](../images/sketch3_3D.png "presentation of 3d model")
+!["presentation of 3d model"](../images/sketch4_3D.png "presentation of 3d model")
 ;)
 
 
