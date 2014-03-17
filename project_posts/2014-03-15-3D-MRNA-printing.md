@@ -33,7 +33,7 @@ beginRecord("nervoussystem.obj.OBJExport", dateString+"_"+scaleFactor+"_"+"mrna"
 endRecord(); 
 ```
 
-**printing pipeline** the .obj file is converted to printer instructions in (https://www.ultimaker.com/pages/our-software "cura"). Added a  "raft" to the model (grid structure at the bottom) to make it more robust.
+**printing pipeline** the .obj file is converted to printer instructions in [Cura](https://www.ultimaker.com/pages/our-software "cura"). Added a  "raft" to the model (grid structure at the bottom) to make it more robust.
 
 ![100x100px test data](../project_images/printing1.png "100x100px test data")
 
@@ -43,7 +43,7 @@ endRecord();
 
 ![3D print](../project_images/3dprint.jpg "3D print")
 
-**findings** it becomes clear that the 3D model -if its made out of cubic voxels - is much larger in height than it is in width and height. I didn't catch fire for this 3D interpretation, at least not for this first shot. I should give it a try with less elevation.
+**findings** it becomes clear that the 3D model -if its made out of cubic voxels - is way larger in height than it is in width and length. I didn't catch fire for this 3D interpretation, at least not for this first shot. (I think there's even more depth in the colored images than in the single colored 3d print.) Still I should give it a try with less elevation per pixel.
 
 Nevertheless, this lead to some ideas about the exhibition:
 
