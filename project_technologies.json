@@ -7,11 +7,14 @@
            
         ],
         "toolkits": [
-            "http://www.processing.org"
+            "http://www.processing.org",
             "http://n-e-r-v-o-u-s.com/tools/obj/"
         ]
     },
     "themes": [
-       
+       "Art meets Science",
+       "human genome",
+       "DNA",
+       "Predestination"
     ]
 }
