@@ -52,3 +52,5 @@ for each letter in dna{
 + http://n-e-r-v-o-u-s.com/tools/obj/ (.obj exporter)
 + google maps API
 + data source: http://hgdownload.soe.ucsc.edu/downloads.html
+
+(to the people of devart: the presentation of my documentation is messed up on the devart page while looking ok on github, can you help me on this? thank you)
