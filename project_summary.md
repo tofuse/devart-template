@@ -10,10 +10,10 @@ In the begining I was driven by curiousness, I had no specific end result in min
 
 ####Privacy & Predestination - Art meets Sience 
 
-Meanwhile, I dove deeper in the topic and found  I'm interested what the consequences of "gene sequencing for the (wealthy) masses" might have for our society on one hand, and on the other, how I would change my life if I knew all my dispositions in detail.
+I'm interested what the consequences of "gene sequencing for the (wealthy) masses" might have for our society on one hand, and on the other, how I would change my life if I knew all my dispositions in detail.
 By making this work accessible to the public - At this time I'm exploring different approaches how this could be done - , my goal is to encourage thinking and discourse about the topic and create an access to non scientists (as I am) to this inapprehensable data set, stored in each cell of our body on containing the building plan of ourselves. Is this you? 
 
-!["detail of human genome"](./project_images/coloredGenes.png "detail of human genome")
+![Genes Colored](project_images/coloredGenes.png "Genes Colored")
 
 Small detail of the human genome. Each pixel represents one letter. Color distinguishes coding from non coding parts. Saturation shows amount of draw-overs. If the whole genome would be visualised as one sequence, 1 pixel per letter, the picture would exceed 1 million pixels in height and 300000 in width. Note the repeating patterns. 
 
