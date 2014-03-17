@@ -48,8 +48,7 @@ for each letter in dna{
 
 ####Tools
 
-http://www.processing.org 
-
-google maps API
-
-data source: http://hgdownload.soe.ucsc.edu/downloads.html
++ http://www.processing.org 
++ http://n-e-r-v-o-u-s.com/tools/obj/ (.obj exporter)
++ google maps API
++ data source: http://hgdownload.soe.ucsc.edu/downloads.html
