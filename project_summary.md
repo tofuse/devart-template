@@ -1,5 +1,6 @@
 ###This is you
-by Christian Iten, tofuse
+by Christian Iten
+
 
 ####Prologue
 
