@@ -41,11 +41,11 @@ endRecord();
 
 **3d printing** printer: ultimaker original.  The print consists of cubes of 1x1x1 mm. (means 10000px image would be a 3D model of  10x10m in size) 1x1x1mm is the minimum size for recognizable cubes.
 
-![3D print](../project_images/3dprint.jpg "3D print")
+![3D view of model in cura](../project_images/3dprinting.jpg "3D view of model in cura")
 
-**findings** it becomes clear that the 3D model -if its made out of cubic voxels - is much larger in height than it is in width and height. I didn't catch fire for this 3D interpretation, at least not for this first shot. I should give it a try with less elevation.
+it becomes clear that the 3D model -if its made out of cubic voxels - is much larger in height than it is in width and height. 
 
-Nevertheless, this lead to some ideas about the exhibition:
+this leads to new thoughts about the presentation:
 
 !["presentation of 3d model" ](../project_images/sketch0_3D.png "presentation of 3d model")
 a piece of size 3x3m
