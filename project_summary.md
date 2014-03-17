@@ -13,7 +13,7 @@ In the begining I was driven by curiousness, I had no specific end result in min
 Meanwhile, I see this as an "art meets science" project. I'm interested what the consequences of "gene sequencing for the (wealthy) masses" might have for our society on one hand, and on the other, how I would change my life if I knew all my dispositions in detail.
 By making this work accessible to the public, my goal is to encourage thinking and discourse. 
 
-![zoom5](./images/zoom5.png "zoom5")
+![zoom5](./images/coloredGenes.png "zoom5")
 
 ####Pseudo Code to draw the dna according to main idea
 
