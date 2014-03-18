@@ -1,5 +1,4 @@
-#####Mar 15 2014 3D Printing 
-tcga_i6_2
+#####Mar 15 2014 3D Printing tcga_i6_2
 
 !["base of 3d model"](../project_images/baseof3dmodel.png "base of 3d model")
 2D representation of test data
