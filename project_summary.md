@@ -53,4 +53,3 @@ for each letter in dna{
 + google maps API
 + data source: http://hgdownload.soe.ucsc.edu/downloads.html
 
-(to the devart team: the presentation of my documentation is messed up on the devart page while looking ok on github, can you help me on this? thank you)
