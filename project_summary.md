@@ -2,6 +2,11 @@
 by Christian Iten
 
 
+####Latest News
+
+have a look at the prototype using google maps. 
+http://www.to-fuse.ch/dna_map/
+
 #####Initial Idea
 
 The information stored in the human dna is represented by a nearly endless sequence of four different letters only: T, C, G and A. What if I interpret those four letters as drawing directions: T means one step up, C one step to the right, and so on. How will it look like? Are there patterns emerging? Could that visualisation even have scientific relevance?
@@ -17,10 +22,7 @@ By making this work accessible to the public - At this time I'm exploring differ
 
 Small detail of the human genome. Each pixel represents one letter. Color distinguishes coding from non coding parts. Saturation shows amount of draw-overs. If the whole genome would be visualised as one sequence, 1 pixel per letter, the picture would exceed 1 million pixels in height and 300000 in width. Note the repeating patterns. 
 
-####Prototype
 
-have a look at the prototype using google maps. 
-http://www.to-fuse.ch/dna_map/
 
 
 ####Pseudo Code 
