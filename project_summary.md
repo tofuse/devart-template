@@ -17,6 +17,12 @@ By making this work accessible to the public - At this time I'm exploring differ
 
 Small detail of the human genome. Each pixel represents one letter. Color distinguishes coding from non coding parts. Saturation shows amount of draw-overs. If the whole genome would be visualised as one sequence, 1 pixel per letter, the picture would exceed 1 million pixels in height and 300000 in width. Note the repeating patterns. 
 
+####Prototype
+
+have a look at the prototype using google maps. 
+http://www.to-fuse.ch/dna_map/
+
+
 ####Pseudo Code 
 
 realisation of main idea
