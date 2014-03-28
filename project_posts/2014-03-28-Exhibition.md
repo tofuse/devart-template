@@ -21,4 +21,4 @@ this is a link to a prototype of the visualisation in google maps:
 http://www.to-fuse.ch/dna_map/
 
 pictures of X and Y chromosome side by side:
-!["first run in google maps"](../project_images/mapstest1.png "first run in google maps")
+!["first run in google maps"](../project_images/xy.png "first run in google maps")
