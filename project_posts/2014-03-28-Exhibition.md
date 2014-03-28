@@ -1,6 +1,6 @@
 ####Installation
 
-The installation consists of 2 images showing the visualisation of the X and Y chromosome of the human dna. Additionally visitors can navigate through the visualisation of the human genome using a large touchscreen. 
+The installation consists of two images showing the visualisation of the X and Y chromosome of the human dna. Additionally visitors can navigate through the visualisation of the human genome using a large touchscreen. 
 The artists aim is to offer access to our dna as the source code of our organisms and encourage discourse about the consequences latest developments in genomics might have to our society and the way we live our lifes.  
 
 ##Images of X and Y Chromosomes
@@ -12,13 +12,13 @@ Along with the images, information is provided to the visitor in an info box:
 
 ##Interactive Visualisation
 
-The visualisation allows the visitor to navigate thourgh the whole human genome using the google maps user interface. on the map a number of visually interesting formations are indicated using google maps markers. Users canthe pan and zoom the map.
-The installation consists of a high quality, large touch screen mounted in a declined, table-like position and a computer running a browser in fullscreen mode. The map imagery is hosted on a google server. 
+The visualisation allows the visitor to navigate thourgh the whole human genome using the google maps user interface. on the map a number of visually interesting formations are indicated using google maps markers. Users can pan and zoom the map.
+The installation consists of a high quality, large touch screen mounted in a angular, table-like position and a computer running a browser in fullscreen mode. The map imagery is hosted on a google server, accessed by the computer in the exhibition over the web.
 
 The installation might be made accessible to the public through the internet as well. Additionally a user interface could be provided to allow the public to add markers for interesting formations. This would require a moderation of the user generated content.
 
 this is a link to a prototype of the visualisation in google maps:
 http://www.to-fuse.ch/dna_map/
 
-pictures of X and Y chromosome side by side:
+pictures of X and Y chromosome side by side (6.7x1.6m & 1.6x1.7m)
 !["first run in google maps"](../project_images/xy.png "first run in google maps")

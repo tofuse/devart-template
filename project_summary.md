@@ -6,7 +6,7 @@ by Christian Iten
 
 #####Initial Idea
 
-The information stored in the human dna is represented by a nearly endless sequence of four different letters only: T, C, G and A. What if I interpret those four letters as drawing directions: T means one step up, C one step to the right, and so on. How will it look like? Are there patterns emerging? Could that visualisation even have scientific relevance?
+The information stored in the human dna is represented by a nearly endless sequence of four different letters: T, C, G and A. What if I interpret those four letters as drawing directions: T means one step up, C one step to the right, and so on. How will it look like? Are there patterns emerging? Could that visualisation even have scientific relevance?
 Back then early experiments showed interesting results, however I lost focus on it somehow. On occasion of the DEVART initiative, I think its time to explore this idea again.
 In the begining I was driven by curiousness, I had no specific end result in mind. 
 
